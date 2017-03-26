@@ -28,6 +28,7 @@ PLUGINS
 
 TECHNICS
 --------
+### PWA
 [Addy Osmani on Progressive Web Apps across all frameworks](https://www.youtube.com/watch?v=srdKq0DckXQ&feature=youtu.be)
 [A Beginner’s Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/)
 [Designing Responsive Progressive Web Apps](https://cloudfour.com/thinks/designing-responsive-progressive-web-apps/)
