@@ -3,7 +3,7 @@
 ## Index
 1. [GitHub Markdown](#GitHub-Markdown)
 2. [Browsers](#Browsers)
-3. [aaa](aaa)
+3. [postcss](./resurces.md)
 
 ### GitHub Markdown
 - [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
@@ -17,6 +17,3 @@
 - [Firefox Developper Edition](https://www.mozilla.org/es-AR/firefox/developer/)
 - [Opera](http://www.opera.com/es-419)
 - [vivaldi](https://vivaldi.com/)
-
-### Sublime text 3
-- [blisk](https://blisk.io/)
