@@ -35,6 +35,23 @@ gulp.task('css', function () {
     );
 });
 ```
+####[Autoprefixer ](https://github.com/postcss/autoprefixer#autoprefixer-)
+**PostCSS plugin to unwrap nested rules like how Sass does it.**
+```bash
+	$ npm i -D autoprefixer
+```
+
+####[postcss-nested](https://github.com/postcss/postcss-nested#postcss-nested-)
+**PostCSS plugin to unwrap nested rules like how Sass does it.**
+```bash
+	$ npm i -D postcss-nested
+```
+
+####[postcss-simple-vars](https://github.com/postcss/postcss-simple-vars#postcss-simple-variables-)
+**PostCSS plugin for Sass-like variables.**
+```bash
+	$ npm i -D postcss-simple-vars
+```
 
 #### [Stylelint](https://github.com/stylelint/stylelint#stylelint)
 A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets.

@@ -21,3 +21,5 @@ Fake Online REST API for Testing and Prototyping
 #### [JSON Server](https://github.com/typicode/json-server#json-server---)
 Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
+
+#### [http-server](https://www.npmjs.com/package/http-server)
