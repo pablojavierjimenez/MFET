@@ -5,6 +5,9 @@
 2. [Browsers](#Browsers)
 3. [postcss](./resurces.md)
 
+### Git Command and Tuts
+- [Git commands](http://ndpsoftware.com/git-cheatsheet.html)
+
 ### GitHub Markdown
 - [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
